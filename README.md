@@ -1,5 +1,5 @@
 # activtat_festival_musica_DDBB
-![Festival de música - model relacional](image-1.png)
+![DDBB-Entitat relació](image.png)
 
 ## Descripció
 ### Aquest projecte consisteix en el disseny i la implementació d'una base de dades relacional per gestionar un festival de música organitzat per un ajuntament. La base de dades cobreix aspectes com la gestió dels recintes, els grups musicals contractats, les substitucions, la zona d'acampada i els accessos dels assistents als recintes.
